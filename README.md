@@ -15,6 +15,7 @@
 [![Academia.edu](https://img.shields.io/badge/Academia.edu-212121?style=flat-square&logo=academia&logoColor=white)](https://iconnectsolution.academia.edu/geodemographer)
 [![OSF](https://img.shields.io/badge/OSF-212529?style=flat-square&logo=openscienceframework&logoColor=white)](https://osf.io/nxu7q/)
 [![Zenodo](https://img.shields.io/badge/Zenodo-024B8B?style=flat-square&logo=zenodo&logoColor=white)](https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&f=allversions%3Atrue&l=list&p=1&s=10)
+[![☕ Buy Me a Coffee](https://img.shields.io/badge/%20Buy%20Me%20a%20Coffee-3B2F2F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FFD8A8)](https://www.buymeacoffee.com/KumarNarendra0619)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=geodemographer.geodemographer)
 <br />
 
