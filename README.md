@@ -47,9 +47,14 @@ Developing automated tools for:
 - Environmental Monitoring
 - GIS-based Water Resource Analysis
 - Scientific Decision Support Systems
-- 
+  
 🌐 Website: https://kumarnarendra0619.github.io/HYDROQUALIX/
 📂 Source Code: https://github.com/KumarNarendra0619/HYDROQUALIX
+
+### [MethodMind™](https://kumarnarendra0619.github.io/HYDROQUALIX/)
+### [PopAnalyzer](https://kumarnarendra0619.github.io/HYDROQUALIX/)
+### [CryoRisk](https://kumarnarendra0619.github.io/HYDROQUALIX/)
+### [Octopus Mapping Technique (OMT)](https://kumarnarendra0619.github.io/HYDROQUALIX/)
 
 
 ## 🗺️ Technical Skills
